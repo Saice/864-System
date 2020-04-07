@@ -3,7 +3,7 @@
 
 Welcome to Ascension Glitch a setting for the 864 System by Krec. This RPG uses modfied 864 system you can find the base system at the <a href="https://github.com/dicepencilpaper/864-System">864 System GitHub</a>. 
 
-To get started please go to the <a href="https://github.com/Saice/864-System/blob/master/index.md">Index</a> or if you know where you are going pick of the files directly
+To get started please go to the <a href="https://github.com/Saice/Asecension-Glitch-864/blob/master/index.md">Index</a> or if you know where you are going pick of the files directly
 
 
 
