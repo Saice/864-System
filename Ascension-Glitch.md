@@ -1,5 +1,5 @@
-# 864 System
-The 864 is a simplified tabletop role-playing system uses the d8, d6, and d4 dice for its mechanics. It uses dice elimination and simple modifiers to set up roll targets and determine success.
+# Asecension Glitch 864
+The 864 is a simplified tabletop role-playing system uses the d8, d6, and d4 dice for its mechanics. It uses dice elimination and simple modifiers to set up roll targets and determine success. The system is made for quick task resolution to let you focus on role playing. The main devance from the Core 864 system is the addtion of some abilities and addtional mechanics for dealing with the specail nature of living within a simulation.  
 
 ## Entities
 An entity is defined as a player character, non-player character, monster, creature, or any other sentient or semi-sentient inhabitant of the adventure world, basically anything that can be considered alive (or pseudo-alive, like undead creatures).
