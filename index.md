@@ -1,1 +1,1 @@
-Welcome to the 864 System, an open-source tabletop role-playing system!
+Welcome to Ascension Glitch a 864 System Setting.

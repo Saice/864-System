@@ -1,5 +1,13 @@
-# 864 System - An open source tabletop RPG
-**Welcome to the home of the 864 System project, an open-source tabletop role-playing game system!**
+# Ascension Glitch
+**A Sci-Fi RPG set in a broken simulation**
+
+Welcome to Ascension Glitch a setting for the 864 System by Krec. This RPG uses modfied 864 system you can find the base system at the <a href=https://github.com/dicepencilpaper/864-System">864 System GitHub</a>. 
+
+To get started please go to the <a href="https://github.com/Saice/864-System/blob/master/index.md">Index</a> or if you know where you are going pick of the files directly
+
+
+
+## 864 System
 
 <img src="https://github.com/dicepencilpaper/864-System/blob/master/864_400w.jpg" />
 
@@ -15,3 +23,15 @@ Nothing is final in the system for now, and it’s open to contribution from any
 In its open-source spirit, feel free to create an account here and create your own branch and documents!
 
 _-- Kerc_
+
+## Licensing information
+
+### Attribution 4.0 International (CC BY-SA 4.0)
+
+You are free to:
+* Share — copy and redistribute the material in any medium or format.
+* Adapt — remix, transform, and build upon the material for any purpose, even commercially.
+
+#### Terms
+* Attribution - You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+* ShareAlike - If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
